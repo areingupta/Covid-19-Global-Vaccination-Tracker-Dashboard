@@ -9,6 +9,10 @@ It also shows a correlation between the GDP of the countries and the amount of v
 The dashboard allows filtering by Continents, Countries, and Dates.
 
 ![Model](Head.png)
+![Model](filters.png)
+![Model](bar.png)
+![Model](map.png)
+![Model](chart_logartithmic.png)
 
 
 
